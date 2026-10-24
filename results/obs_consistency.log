@@ -1,0 +1,45 @@
+  benchmark  V0 k=0.00: chi(0.999)=0.468 chi_A(0.999)=0.553 rhoN=0.891
+  benchmark  V0 k=0.25: chi(0.999)=0.445 chi_A(0.999)=0.518 rhoN=0.873
+  benchmark  V0 k=0.50: chi(0.999)=0.410 chi_A(0.999)=0.468 rhoN=0.813
+  benchmark  V0 k=0.75: chi(0.999)=0.378 chi_A(0.999)=0.428 rhoN=0.741
+  benchmark  V0 k=1.00: chi(0.999)=0.348 chi_A(0.999)=0.391 rhoN=0.672
+  benchmark  V0 k=1.25: chi(0.999)=0.327 chi_A(0.999)=0.364 rhoN=0.609
+  benchmark  V0 k=1.50: chi(0.999)=0.308 chi_A(0.999)=0.342 rhoN=0.555
+  benchmark  V0 k=1.75: chi(0.999)=0.294 chi_A(0.999)=0.325 rhoN=0.508
+  benchmark  V0 k=2.00: chi(0.999)=0.281 chi_A(0.999)=0.310 rhoN=0.470
+  benchmark  V0 k=2.50: chi(0.999)=0.262 chi_A(0.999)=0.289 rhoN=0.410
+  -> benchmark V0: k_cop (point) = 0.58, (lower 95%) = 1.37
+  benchmark  V4 k=0.00: chi(0.999)=0.548 chi_A(0.999)=0.659 rhoN=0.930
+  benchmark  V4 k=0.25: chi(0.999)=0.518 chi_A(0.999)=0.612 rhoN=0.911
+  benchmark  V4 k=0.50: chi(0.999)=0.475 chi_A(0.999)=0.547 rhoN=0.849
+  benchmark  V4 k=0.75: chi(0.999)=0.436 chi_A(0.999)=0.497 rhoN=0.774
+  benchmark  V4 k=1.00: chi(0.999)=0.400 chi_A(0.999)=0.452 rhoN=0.702
+  benchmark  V4 k=1.25: chi(0.999)=0.374 chi_A(0.999)=0.419 rhoN=0.636
+  benchmark  V4 k=1.50: chi(0.999)=0.351 chi_A(0.999)=0.392 rhoN=0.579
+  benchmark  V4 k=1.75: chi(0.999)=0.333 chi_A(0.999)=0.370 rhoN=0.531
+  benchmark  V4 k=2.00: chi(0.999)=0.317 chi_A(0.999)=0.352 rhoN=0.490
+  benchmark  V4 k=2.50: chi(0.999)=0.295 chi_A(0.999)=0.327 rhoN=0.428
+  -> benchmark V4: k_cop (point) = 1.01, (lower 95%) = 1.98
+  persistent V0 k=0.00: chi(0.999)=0.560 chi_A(0.999)=0.735 rhoN=0.822
+  persistent V0 k=0.25: chi(0.999)=0.531 chi_A(0.999)=0.656 rhoN=0.806
+  persistent V0 k=0.50: chi(0.999)=0.481 chi_A(0.999)=0.570 rhoN=0.751
+  persistent V0 k=0.75: chi(0.999)=0.437 chi_A(0.999)=0.507 rhoN=0.684
+  persistent V0 k=1.00: chi(0.999)=0.402 chi_A(0.999)=0.460 rhoN=0.621
+  persistent V0 k=1.25: chi(0.999)=0.374 chi_A(0.999)=0.425 rhoN=0.563
+  persistent V0 k=1.50: chi(0.999)=0.350 chi_A(0.999)=0.395 rhoN=0.513
+  persistent V0 k=1.75: chi(0.999)=0.332 chi_A(0.999)=0.373 rhoN=0.470
+  persistent V0 k=2.00: chi(0.999)=0.319 chi_A(0.999)=0.357 rhoN=0.434
+  persistent V0 k=2.50: chi(0.999)=0.296 chi_A(0.999)=0.330 rhoN=0.379
+  -> persistent V0: k_cop (point) = 1.02, (lower 95%) = 2.02
+  persistent V4 k=0.00: chi(0.999)=0.597 chi_A(0.999)=0.802 rhoN=0.877
+  persistent V4 k=0.25: chi(0.999)=0.561 chi_A(0.999)=0.704 rhoN=0.859
+  persistent V4 k=0.50: chi(0.999)=0.508 chi_A(0.999)=0.608 rhoN=0.801
+  persistent V4 k=0.75: chi(0.999)=0.462 chi_A(0.999)=0.539 rhoN=0.730
+  persistent V4 k=1.00: chi(0.999)=0.425 chi_A(0.999)=0.489 rhoN=0.662
+  persistent V4 k=1.25: chi(0.999)=0.393 chi_A(0.999)=0.449 rhoN=0.600
+  persistent V4 k=1.50: chi(0.999)=0.371 chi_A(0.999)=0.420 rhoN=0.547
+  persistent V4 k=1.75: chi(0.999)=0.353 chi_A(0.999)=0.398 rhoN=0.501
+  persistent V4 k=2.00: chi(0.999)=0.339 chi_A(0.999)=0.381 rhoN=0.463
+  persistent V4 k=2.50: chi(0.999)=0.317 chi_A(0.999)=0.355 rhoN=0.404
+  -> persistent V4: k_cop (point) = 1.20, (lower 95%) = 2.47
+copula constraint done [541s]

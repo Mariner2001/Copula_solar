@@ -1,0 +1,24 @@
+V0_published: rho_N=0.697
+   x*=   5  <X|X*>=  3.92  Q=  4.68  GaussCop=  3.30  | deficit= 1.08: marginal= 0.32 (  30%), copula= 0.76 (  70%)
+   x*=  10  <X|X*>=  6.87  Q=  8.83  GaussCop=  5.12  | deficit= 3.13: marginal= 1.17 (  38%), copula= 1.95 (  62%)
+   x*=  15  <X|X*>=  9.50  Q= 12.23  GaussCop=  6.42  | deficit= 5.50: marginal= 2.77 (  50%), copula= 2.73 (  50%)
+   x*=  20  <X|X*>= 11.58  Q= 15.79  GaussCop=  7.66  | deficit= 8.42: marginal= 4.21 (  50%), copula= 4.20 (  50%)
+   x*=  25  <X|X*>= 13.61  Q= 20.34  GaussCop=  9.14  | deficit=11.39: marginal= 4.66 (  41%), copula= 6.73 (  59%)
+V4_nodouble: rho_N=0.728
+   x*=   5  <X|X*>=  4.08  Q=  4.69  GaussCop=  3.44  | deficit= 0.92: marginal= 0.31 (  34%), copula= 0.61 (  66%)
+   x*=  10  <X|X*>=  7.31  Q=  8.80  GaussCop=  5.46  | deficit= 2.69: marginal= 1.20 (  44%), copula= 1.49 (  56%)
+   x*=  15  <X|X*>= 10.20  Q= 12.21  GaussCop=  6.92  | deficit= 4.80: marginal= 2.79 (  58%), copula= 2.01 (  42%)
+   x*=  20  <X|X*>= 12.57  Q= 15.95  GaussCop=  8.30  | deficit= 7.43: marginal= 4.05 (  55%), copula= 3.38 (  45%)
+   x*=  25  <X|X*>= 14.87  Q= 20.67  GaussCop=  9.95  | deficit=10.13: marginal= 4.33 (  43%), copula= 5.80 (  57%)
+V5_magonly: rho_N=0.759
+   x*=   5  <X|X*>=  4.25  Q=  4.69  GaussCop=  3.57  | deficit= 0.75: marginal= 0.31 (  42%), copula= 0.44 (  58%)
+   x*=  10  <X|X*>=  7.79  Q=  8.79  GaussCop=  5.77  | deficit= 2.21: marginal= 1.21 (  55%), copula= 1.00 (  45%)
+   x*=  15  <X|X*>= 10.97  Q= 12.17  GaussCop=  7.37  | deficit= 4.03: marginal= 2.83 (  70%), copula= 1.20 (  30%)
+   x*=  20  <X|X*>= 13.76  Q= 15.86  GaussCop=  8.91  | deficit= 6.24: marginal= 4.14 (  66%), copula= 2.10 (  34%)
+   x*=  25  <X|X*>= 16.38  Q= 20.36  GaussCop= 10.74  | deficit= 8.62: marginal= 4.64 (  54%), copula= 3.98 (  46%)
+V6_timeonly: rho_N=0.920
+   x*=   5  <X|X*>=  4.55  Q=  5.00  GaussCop=  4.56  | deficit= 0.45: marginal= 0.00 (   0%), copula= 0.45 ( 100%)
+   x*=  10  <X|X*>=  8.70  Q= 10.00  GaussCop=  8.68  | deficit= 1.30: marginal=-0.00 (  -0%), copula= 1.30 ( 100%)
+   x*=  15  <X|X*>= 12.59  Q= 15.08  GaussCop= 12.62  | deficit= 2.41: marginal=-0.08 (  -3%), copula= 2.48 ( 103%)
+   x*=  20  <X|X*>= 16.86  Q= 19.91  GaussCop= 16.49  | deficit= 3.14: marginal= 0.09 (   3%), copula= 3.05 (  97%)
+   x*=  25  <X|X*>= 20.58  Q= 25.05  GaussCop= 20.04  | deficit= 4.42: marginal=-0.05 (  -1%), copula= 4.48 ( 101%)

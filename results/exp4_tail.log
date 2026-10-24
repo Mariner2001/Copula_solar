@@ -1,0 +1,3 @@
+lognormal [(np.float64(2.2), np.float64(0.944), 8193142), (np.float64(4.0), np.float64(0.85), 3174098), (np.float64(7.2), np.float64(0.766), 828776), (np.float64(12.9), np.float64(0.691), 145851), (np.float64(23.2), np.float64(0.625), 17074), (np.float64(41.9), np.float64(0.559), 1421)]
+pareto_tail [(np.float64(2.2), np.float64(0.944), 8192502), (np.float64(4.0), np.float64(0.85), 3170987), (np.float64(7.2), np.float64(0.766), 822977), (np.float64(12.9), np.float64(0.709), 148900), (np.float64(23.2), np.float64(0.674), 20724), (np.float64(41.9), np.float64(0.657), 2373), (np.float64(75.5), np.float64(0.67), 267)]
+kappa (Pareto asymptote) = 0.634  lognormal log-log slope b = 0.826

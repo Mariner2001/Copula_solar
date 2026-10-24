@@ -1,0 +1,95 @@
+Wind:
+  wind 1995: 436,031 valid minutes
+  wind 1996: 426,456 valid minutes
+  wind 1997: 439,699 valid minutes
+  wind 1998: 416,734 valid minutes
+  wind 1999: 336,901 valid minutes
+  wind 2000: 349,947 valid minutes
+  wind 2001: 350,981 valid minutes
+  wind 2002: 377,464 valid minutes
+  wind 2003: 308,528 valid minutes
+  wind 2004: 323,901 valid minutes
+  wind 2005: 395,769 valid minutes
+  wind 2006: 388,529 valid minutes
+  wind 2007: 394,257 valid minutes
+  wind 2008: 396,364 valid minutes
+  wind 2009: 387,118 valid minutes
+  wind 2010: 394,234 valid minutes
+  wind 2011: 393,832 valid minutes
+  wind 2012: 400,486 valid minutes
+  wind 2013: 396,275 valid minutes
+  wind 2014: 352,714 valid minutes
+  wind 2015: 386,755 valid minutes
+  wind 2016: 395,371 valid minutes
+  wind 2017: 398,874 valid minutes
+  wind 2018: 400,824 valid minutes
+  wind 2019: 390,430 valid minutes
+  wind 2020: 397,745 valid minutes
+  wind 2021: 92,334 valid minutes
+PC indices:
+  PC 1995: 525,384 PCN, 523,637 PCS
+  PC 1996: 526,749 PCN, 57,906 PCS
+  PC 1997: 525,352 PCN, 523,260 PCS
+  PC 1998: 525,347 PCN, 519,439 PCS
+  PC 1999: 525,341 PCN, 507,281 PCS
+  PC 2000: 526,681 PCN, 522,715 PCS
+  PC 2001: 525,598 PCN, 522,217 PCS
+  PC 2002: 525,600 PCN, 520,088 PCS
+  PC 2003: 524,047 PCN, 0 PCS
+  PC 2004: 527,038 PCN, 462,144 PCS
+  PC 2005: 525,600 PCN, 496,063 PCS
+  PC 2006: 525,572 PCN, 521,883 PCS
+  PC 2007: 525,599 PCN, 518,062 PCS
+  PC 2008: 527,005 PCN, 523,079 PCS
+  PC 2009: 525,594 PCN, 458,965 PCS
+  PC 2010: 525,589 PCN, 523,080 PCS
+  PC 2011: 525,599 PCN, 516,617 PCS
+  PC 2012: 520,290 PCN, 526,572 PCS
+  PC 2013: 522,399 PCN, 525,029 PCS
+  PC 2014: 523,532 PCN, 517,419 PCS
+  PC 2015: 501,312 PCN, 512,414 PCS
+  PC 2016: 524,499 PCN, 520,522 PCS
+  PC 2017: 524,511 PCN, 524,013 PCS
+  PC 2018: 517,979 PCN, 525,500 PCS
+  PC 2019: 515,351 PCN, 523,010 PCS
+SuperMAG:
+  SuperMAG: 13,675,679 SML minutes
+written /home/claude/repo/data/processed/polarcap_1min.parquet (14201280, 19)
+ACE and Geotail:
+  ace 1998: 372,734 valid minutes
+  ace 1999: 414,315 valid minutes
+  ace 2000: 400,277 valid minutes
+  ace 2001: 376,926 valid minutes
+  ace 2002: 379,667 valid minutes
+  ace 2003: 428,916 valid minutes
+  ace 2004: 376,430 valid minutes
+  ace 2005: 388,321 valid minutes
+  ace 2006: 316,832 valid minutes
+  ace 2007: 307,936 valid minutes
+  ace 2008: 304,459 valid minutes
+  ace 2009: 191,528 valid minutes
+  ace 2010: 151,433 valid minutes
+  ace 2011: 81,718 valid minutes
+  ace 2012: 80,814 valid minutes
+  ace 2013: 188,290 valid minutes
+  ace 2014: 243,526 valid minutes
+  ace 2015: 270,929 valid minutes
+  ace 2016: 246,104 valid minutes
+  ace 2017: 250,123 valid minutes
+  ace 2018: 182,069 valid minutes
+  ace 2019: 174,690 valid minutes
+  ace 2020: 136,765 valid minutes
+  ace 2021: 57,467 valid minutes
+  geotail 1995: 168,132 valid minutes
+  geotail 1996: 162,424 valid minutes
+  geotail 1997: 165,351 valid minutes
+  geotail 1998: 148,289 valid minutes
+  geotail 1999: 155,273 valid minutes
+  geotail 2000: 145,488 valid minutes
+  geotail 2001: 142,495 valid minutes
+  geotail 2002: 149,666 valid minutes
+  geotail 2003: 144,367 valid minutes
+  geotail 2004: 143,592 valid minutes
+  geotail 2005: 145,954 valid minutes
+  geotail 2006: 108,217 valid minutes
+written /home/claude/repo/data/processed/nose_multi_sc_1min.parquet 12055557

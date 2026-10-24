@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this repository."
+title: "Copulas separate apparent from physical saturation of geomagnetic storms: code and results"
+type: software
+license: MIT
+authors:
+  - family-names: "[Author One]"
+    given-names: "[Given names]"
+  - family-names: "[Author Two]"
+    given-names: "[Given names]"
+  - family-names: "[Author Three]"
+    given-names: "[Given names]"
+version: "1.0.0"
+date-released: "2026-10-20"
+keywords:
+  - copulas
+  - measurement error
+  - regression to the mean
+  - space weather
+  - polar cap index

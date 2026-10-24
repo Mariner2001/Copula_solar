@@ -1,0 +1,22 @@
+V0_published: rho_N=0.6966 rho_S=0.7085 (Gauss 0.6795) tau=0.5218 (Gauss 0.4906)
+   u      lambda_U(emp)  lambda_U(Gauss)
+   0.9000   0.6212        0.4649
+   0.9500   0.5752        0.3889
+   0.9900   0.4863        0.2637
+   0.9950   0.4514        0.2248
+   0.9990   0.3855        0.1569
+   0.9995   0.3369        0.1349
+   0.9999   0.3302        0.0956
+   eta Hill (k): {500: np.float64(1.107), 1000: np.float64(1.021), 2000: np.float64(0.927), 5000: np.float64(0.899), 10000: np.float64(0.907)}  Gauss eta= 0.848
+   rank regression at top bins: [(np.float64(0.9958), np.float64(0.9773), 0.9324), (np.float64(0.9968), np.float64(0.9803), 0.9383), (np.float64(0.9976), np.float64(0.9829), 0.9452), (np.float64(0.9986), np.float64(0.9873), 0.9541), (np.float64(0.9994), np.float64(0.9923), 0.9676), (np.float64(1.0), np.float64(0.998), 0.9862)]
+V4_nodouble: rho_N=0.7273 rho_S=0.7412 (Gauss 0.7108) tau=0.5521 (Gauss 0.5185)
+   u      lambda_U(emp)  lambda_U(Gauss)
+   0.9000   0.6640        0.4916
+   0.9500   0.6244        0.4176
+   0.9900   0.5458        0.2932
+   0.9950   0.5149        0.2537
+   0.9990   0.4551        0.1832
+   0.9995   0.4077        0.1598
+   0.9999   0.4077        0.1172
+   eta Hill (k): {500: np.float64(1.12), 1000: np.float64(1.063), 2000: np.float64(0.943), 5000: np.float64(0.918), 10000: np.float64(0.923)}  Gauss eta= 0.864
+   rank regression at top bins: [(np.float64(0.9958), np.float64(0.9867), 0.9433), (np.float64(0.9968), np.float64(0.989), 0.9487), (np.float64(0.9976), np.float64(0.9914), 0.955), (np.float64(0.9986), np.float64(0.9941), 0.9629), (np.float64(0.9994), np.float64(0.9972), 0.9748), (np.float64(1.0), np.float64(0.9991), 0.9902)]

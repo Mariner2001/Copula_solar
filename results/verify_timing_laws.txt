@@ -1,0 +1,29 @@
+=== Weibull dt2 consistency (shape k=1.3) ===
+CV(k=1.3) = 0.7757
+mean=17 -> scale=18.41, SD=13.19 min
+SD=25 -> scale=34.89, mean=32.23 min
+ scale= 18.41: mean= 17.00 sd= 13.19 mode= 5.96 peak pdf=0.0400; dt2=T2-17 mean=+0.00
+ scale= 25.00: mean= 23.09 sd= 17.91 mode= 8.09 peak pdf=0.0294; dt2=T2-17 mean=+6.09
+ scale= 34.89: mean= 32.23 sd= 25.00 mode=11.30 peak pdf=0.0211; dt2=T2-17 mean=+15.23
+shape giving mean17/sd25: k=0.697
+=== Student t, nu=1.3, scale 8 min ===
+variance: inf
+ P(|dt1|>   8 min) = 0.4672
+ P(|dt1|>  16 min) = 0.2475
+ P(|dt1|>  30 min) = 0.1195
+ P(|dt1|>  60 min) = 0.0500
+ P(|dt1|> 120 min) = 0.0205
+ P(|dt1|> 360 min) = 0.0049
+ peak pdf: 0.04167528492945033
+ IQR (min): 14.552280450163321  normal(sd=8) IQR: 10.792
+=== ED Fig 6: r=0.61, n=9 (and n=8 w/o Boyle) ===
+ n=9: t=2.037, p=0.081, 95% CI for r = [-0.09,0.91]
+ n=8: t=1.886, p=0.108, 95% CI for r = [-0.17,0.92]
+ from table values: r=0.619, p=0.076
+ without Boyle: r=0.637, p=0.090
+=== lognormal X used by authors: mu=-0.2518, s=0.85 ===
+ P(X>5) = 1.43e-02
+ P(X>10) = 1.33e-03
+ P(X>15) = 2.49e-04
+ P(X>20) = 6.66e-05
+ P(X>25) = 2.22e-05
