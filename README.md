@@ -71,17 +71,6 @@ and a heteroskedastic magnitude error whose relative size is digitized from Fig.
 
 Memory: `obs_analysis.py` needs about 4 GB. Figures use the Liberation Sans font if available.
 
-## Guía rápida (español)
-
-1. Instale las dependencias: `pip install -r requirements.txt`.
-2. Reproducción completa: `bash run_all.sh` (descarga y verifica los datos, ejecuta simulaciones y análisis,
-   genera figuras y `manuscript/main.tex`).
-3. Solo figuras y manuscrito (sin datos ni simulaciones): `python3 code/make_figures.py` y
-   `python3 manuscript/source/build_manuscript.py`.
-4. Para Overleaf basta con subir `manuscript/main.tex` y la carpeta `manuscript/figures/`.
-5. Matters Arising: `manuscript/matters_arising/`.
-6. Versión para SERRA: `manuscript/serra/` (se regenera con `python3 manuscript/serra/build_serra.py`).
-
 ## Licence
 
 Code under the MIT licence (`LICENSE`). The data are not redistributed; see `data/README.md` for their
